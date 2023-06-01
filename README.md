@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I`m currently learning to code with python. Here you can find my beginner projects.
+
+
 <!--
 **Dastardly4577/Dastardly4577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
